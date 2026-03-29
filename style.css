@@ -47,7 +47,7 @@
   width: 148;
   height: 40px;
   position: relative;
-  z-index: 10;
+  z-index: 12;
 }
 .bar .button {
   position: relative;
